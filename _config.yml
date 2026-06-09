@@ -1,0 +1,11 @@
+
+remote_theme: just-the-docs/just-the-docs
+title: "Priya Sherine | API Technical Writer"
+description: "API references, developer guides, and technical documentation samples."
+author: "Priya Sherine"
+color_scheme: light
+
+nav_sort: case_insensitive
+search_enabled: true
+
+footer_content: "API Technical Writer Portfolio"

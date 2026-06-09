@@ -80,7 +80,7 @@ Covers authentication, workspace setup, task creation, and team assignment.
 
 | Channel   | Details                                              |
 |-----------|------------------------------------------------------|
-| Email     | priyasherine@email.com                               |
+| Email     | g.r.priyasherine@gmail.com                               |
 | LinkedIn  | [linkedin.com/in/priyasherine](https://linkedin.com/in/priya-sherine) |
 | GitHub    | [github.com/grpriyasherine](https://github.com/grpriyasherine)           |
 | Portfolio | [grpriyasherine.github.io](https://github.com/grpriyasherine/Portfolio-TechnicalWriter)             |

@@ -50,13 +50,14 @@ I have completed certification in:
 
 ## Writing samples
 
-### API Reference
+### TaskFlow API Reference
 A complete REST API reference for the TaskFlow task management API.
 Documents `POST /tasks` with full parameter table, curl request,
 JSON response, and error code reference.
 
 → [View API Reference](./api-docs/sample-api.md)
 
+### Star Wars API Reference
 Developed a complete API reference document for the **People** resource of the Star Wars API (SWAPI).
 Documented multiple endpoints including /people/ and `/people/:id/` with detailed request parameters and response bodies.Validated all API behavior using Postman to ensure documentation accuracy against actual server responses.
 → [Star Wars API Reference](./api-docs/SWAPI_API_Guide.docx)

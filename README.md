@@ -57,6 +57,12 @@ JSON response, and error code reference.
 
 → [View API Reference](./api-docs/sample-api.md)
 
+Developed a complete API reference document for the **People** resource of the Star Wars API (SWAPI).
+Documented multiple endpoints including /people/ and `/people/:id/` with detailed request parameters and response bodies.Validated all API behavior using Postman to ensure documentation accuracy against actual server responses.
+→ [Star Wars API Reference](./api-docs/SWAPI_API_Guide.docx)
+
+
+
 ### Getting Started Guide
 A step-by-step onboarding guide for new TaskFlow users.
 Covers authentication, workspace setup, task creation, and team assignment.

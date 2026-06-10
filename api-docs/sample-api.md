@@ -1,11 +1,10 @@
-
 # TaskFlow API Reference
 
-## API Information
+Base URL: https://api.taskflow.io/v1
 
-**Base URL:** https://api.taskflow.io/v1
+Authentication: Bearer token in Authorization header
 
-**Authentication:** Bearer token in Authorization header
+---
 
 
 # Request Parameters
